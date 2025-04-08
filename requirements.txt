@@ -3,4 +3,5 @@ pandas
 numpy
 PyYAML
 streamlit
+six==1.16.0
 -e .
